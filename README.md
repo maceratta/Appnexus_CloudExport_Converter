@@ -44,7 +44,7 @@ sudo yum -y install git-core
 scp -i ~/YOUR_PRIVATE_KEY.pem converter.zip hadoop@ec2-XX-XXX-XXX-XXX.ap-southeast-2.compute.amazonaws.com:/home/hadoop/
 
 ## Get a copy of this repository in your instance
-git clone https://github.com/maceratta/Appnexus_LLD_Converter
+git clone https://github.com/maceratta/Appnexus_CloudExport_Converter
 
 cd Appnexus_LLD_Converter/
 
@@ -117,7 +117,7 @@ I hope you will find the above useful, but if you have other question or issue r
 
 ## Authors
 
-* **Pedro Maceratta** - [Maceratta](https://github.com/maceratta)
+* **Pedro Maceratta** - [Maceratta](https://linkedin.com/in/maceratta/)
 
 
 ## License
