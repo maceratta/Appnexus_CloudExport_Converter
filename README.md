@@ -122,4 +122,4 @@ I hope you will find the above useful, but if you have other question or issue r
 
 ## License
 
-This project is licensed under THE BEER-WARE LICENSE (Revision 42): - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under THE BEER-WARE LICENSE (Revision 42): - see the [LICENSE.md](https://github.com/maceratta/Appnexus_CloudExport_Converter/blob/master/LICENSE) file for details.
