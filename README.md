@@ -94,9 +94,6 @@ Once the file has been converted you can export the data to a s3 bucket.
 ## Final comments
 All the above processes can be automated using an EMR Bootstrap Action [5] to install all the required software on the cluster and schedule the process accordingly to your needs using the AWS Data Pipeline [6].
 
-I hope you will find the above useful, but if you have other question or issue running the code, do not hesitate to contact me. I'll be glad to address all your questions.
-
-
 
 ## Documentation
 
